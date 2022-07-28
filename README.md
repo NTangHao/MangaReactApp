@@ -5,7 +5,7 @@ This repository is made to read mana from [Nettruyen website](http://www.nettruy
 Maybe the site will change domain name in future. You can change the link in folder apis to crawler it
 
 ## Packages Used
-- [firebase v9]()
+- [firebase v9](https://firebase.google.com/docs)
 - [react-navigation v6](https://reactnavigation.org/docs/getting-started)
 - [axios](https://github.com/axios/axios)
 - [cheerio](https://github.com/cheeriojs/cheerio)
