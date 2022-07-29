@@ -33,19 +33,19 @@ export const vmax = number => Math.max(Dimensions.get('window').width * (number 
 ![Sign in UI](assets/screenshot/HomeScreen.png)
 
 ### MangaDetail UI
-![Sign in UI](assets/screenshot/MagaDetail.png)
+![Sign in UI](assets/screenshot/MangaDetail.png)
 
 ### ChapterManga UI
-![Sign in UI](assets/screenshot/ChapterManga.png)
+![Sign in UI](assets/screenshot/ChapterRead.png)
 
 ### SearchManga UI
-![Sign in UI](assets/screenshot/Search.png)
+![Sign in UI](assets/screenshot/SearchScreen.png)
 
 ### FilterGenres UI
 ![Sign in UI](assets/screenshot/FilterGenres.png)
 
 ### PickerManga UI
-![Sign in UI](assets/screenshot/PickerChapter.png)
+![Sign in UI](assets/screenshot/SelectChapter.png)
 
 ### MangaInGenres UI
 ![Sign in UI](assets/screenshot/MangaInGenres.png)
@@ -57,7 +57,7 @@ export const vmax = number => Math.max(Dimensions.get('window').width * (number 
 ![Sign in UI](assets/screenshot/CommentManga.png)
 
 ### Profile UI
-![Sign in UI](assets/screenshot/ProfileUser.png)
+![Sign in UI](assets/screenshot/ChangePassword.png)
 
 ### EditProfile UI
 ![Sign in UI](assets/screenshot/EditProfile.png)
